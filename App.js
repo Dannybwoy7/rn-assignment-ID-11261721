@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>My name is <Text style={styles.boldText}>Daron
+      <Text style={styles.text}>My name is <Text style={styles.boldText}>Osei
         </Text></Text>
     </View>
   );
