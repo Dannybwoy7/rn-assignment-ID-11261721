@@ -2,7 +2,7 @@
 # React Native Project with Expo CLI
 # DCIT 202 ASSIGNMENT 2
 # NAME: Daron Kenny
-Student ID: 12345678
+Student ID: 11261721
 Task Description
 This project involves creating a new React Native application using Expo CLI and modifying the App.js file to meet the following requirements:
 
